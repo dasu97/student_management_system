@@ -1,0 +1,19 @@
+
+Registration num - EUSL/TC/IS/2017/COM/48
+Name                    - E.D.Dasuni Sachinthana Siriwardhana
+Project name        - Student Information System
+
+This is a small software of Student Information System using by a administrator. It helps to manage students data. These systems stores and process large amounts of personal and critical data. This reduse manual workload and paperwork.
+
+		Here I have developed login interface and if the admin fogot his username and password he can reset his username and password by answering security questions.And also admin can change username, password, answers for security questions. In the system admin can insert data like student index number, name, age, gender, marks for 5 subjects. These data are saved in a database and count total marks, average marks, status(PASS/FAIL) and display in a table below. Here admin can update and delete selected student's details. Admin can search a student by typing the index number in search bar or select a student in table by using mouse pointer or arrow keys. Then the textboxes will fill by selected student's details. And also admin can chek student details and marksheet seperately here.
+
+I have used php and mysql database, java, xampp server and netbean IDE here to develop this system.
+
+*********************************************************************************************
+
+default username- admin
+default password - admin
+default answer 1   - home
+default answer 2   - run
+
+**********************************************************************************************
